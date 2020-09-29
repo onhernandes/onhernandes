@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 💻 Instructor and Developer at [Alura](@alura-cursos)
+
 🏡 Currently based on São Paulo, Brazil
 
 ### Pronous
 
 PT-BR: ele/dele
+
 EN: they/them/he
 
 ### Reach me out

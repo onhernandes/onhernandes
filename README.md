@@ -15,3 +15,8 @@ EN: they/them/he
 - [Twitter](https://twitter.com/onhernandes)
 - [LinkedIn](https://linkedin.com/in/onhernandes)
 - [My website](https://onhernandes.dev)
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

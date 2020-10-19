@@ -19,9 +19,9 @@ EN: they/them/he
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Actions](https://onhernandes.dev/artigos/github-actions/)
 - [Conhecendo Sets Em JS](https://onhernandes.dev/artigos/conhecendo-sets-em-js/)
 - [Série: ORM, gambiarras & relacionados](https://onhernandes.dev/artigos/orm-gambiarra-relacionados/)
 - [Mudanca de Branches: master => main?](https://onhernandes.dev/artigos/mudanca-de-branches-master-main/)
 - [Simplificando: Reflect em objetos](https://onhernandes.dev/artigos/simplificando-reflect-objetos/)
-- [Simplificando casos e condicionais com objetos](https://onhernandes.dev/artigos/simplificando-casos-condicionais-com-objetos/)
 <!-- BLOG-POST-LIST:END -->

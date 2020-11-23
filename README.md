@@ -19,9 +19,9 @@ EN: they/them/he
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conhecendo Maps em Js](https://onhernandes.dev/artigos/conhecendo-maps-em-js/)
 - [Percorrendo arrays em Javascript](https://onhernandes.dev/artigos/percorrendo-arrays-javascript/)
 - [Zines, artes, projetos e futuro do blog](https://onhernandes.dev/artigos/zines-projetos-futuro-do-blog/)
 - [Dicas de organização: aplicativos e metodologias](https://onhernandes.dev/artigos/dicas-de-organizacao-apps-metodologias/)
 - [Github Actions](https://onhernandes.dev/artigos/github-actions/)
-- [Conhecendo Sets Em JS](https://onhernandes.dev/artigos/conhecendo-sets-em-js/)
 <!-- BLOG-POST-LIST:END -->

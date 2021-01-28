@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-💻 Instructor and Developer at [Alura](https://alura.com.br)
+💻 Full Stack Developer at [3778](https://3778.care)
 
 🏡 Currently based on São Paulo, Brazil
 
-### Pronous
+### Pronouns
 
 PT-BR: ele/dele
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Software Engineer / Tech Lead at [3778](https://3778.care)
+💻 Software Engineer at HCL Tech
 
 🏡 Currently based on São Paulo, Brazil
 

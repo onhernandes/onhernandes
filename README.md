@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-💻 Software Engineer at HCL Tech
+💻 Software Engineer at CRM Bonus
 
 🏡 Currently based on São Paulo, Brazil
 
 ### Pronouns
 
-EN: they/them/he
+EN: they/them/he/him
 
 ### Reach me out
 
-- [Twitter](https://twitter.com/onhernandes)
 - [LinkedIn](https://linkedin.com/in/onhernandes)
-- [My website](https://onhernandes.dev)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Software Engineer at CRM Bonus
+💻 Software Engineer at Reddit
 
 🏡 Currently based on São Paulo, Brazil
 
